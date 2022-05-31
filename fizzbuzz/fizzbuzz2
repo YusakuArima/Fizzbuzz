@@ -12,6 +12,6 @@ function fizzbuzz (numbers){
 fizzbuzz (100);
 
 /*
-1-100までの配列が必要な場合
+1-100までの配列が必要な場合。
 [...Array(100)].map((_, i) => i + 1));
 */
