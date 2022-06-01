@@ -1,0 +1,3 @@
+const arry = ['aa','bb','cc','dd','ee','ff','gg'];
+const newarry = arry.slice(3, -1);
+console.log(newarry);
