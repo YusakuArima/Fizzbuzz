@@ -1,4 +1,0 @@
-const a = { a: 'a' };
-const b = { b: 'b' };
-const c = object.assign({}, a, b)
-console.log(c);
